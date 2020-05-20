@@ -1,0 +1,13 @@
+LOGIN = ""
+
+PASSWORD = ""
+
+CLIENT_ID = ""
+
+CLIENT_SECRET = ""
+
+ACCESS_TOKEN = ""
+
+REFRESH_TOKEN = ""
+
+EXPIRE_AT = ""
